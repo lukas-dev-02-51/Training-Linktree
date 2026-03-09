@@ -1,2 +1,0 @@
-mkdir docs
-mv * docs/   # Move your site content into docs, except for .git and docs itself
